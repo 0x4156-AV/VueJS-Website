@@ -5,7 +5,7 @@
   <a href="https://opensource.org/licenses/gpl-license"><img src="https://img.shields.io/eclipse-marketplace/l/notepad4e.svg" alt="License"></a>
 </p>
 
-This is the working code for [my website](https://www.aaronvigal.com). Future additiona re comming in the future.
+This is the working code for [my website](https://www.aaronvigal.com). Future additions are comming in the future.
 
 This application was made using [Vue.js 2.x](https://vuejs.org/), a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 
