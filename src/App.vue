@@ -6,7 +6,7 @@
             <div class="main">
                 <div class="wrap-banner">
                     <div class="forward">
-                        <Header></Header>
+                        <HeaderComponent></HeaderComponent>
                         <TypedText class="vue-typer"></TypedText>
 
                         <div class="social">
@@ -42,7 +42,7 @@
 <script>
     import Breadcrumb from "./components/breadcrumb";
     import TypedText from "./components/typed-text";
-    import Header from "./components/header";
+    import HeaderComponent from "./components/header_component";
     import Resume from "./components/resume";
     import VueGoodshareEmail from "vue-goodshare/src/providers/Email";
     import VueGoodshareFacebook from "vue-goodshare/src/providers/Facebook";
@@ -62,7 +62,7 @@
             VueGoodshareTwitter,
             VueGoodshareFacebook,
             VueGoodshareEmail,
-            Header,
+            HeaderComponent,
             TypedText,
             Breadcrumb,
             Resume,
